@@ -79,5 +79,3 @@ python app.py
 
 ## 👥 Authors
 - **Priyadharshini G** – Developer & ML Engineer  
-- **Jafrin Banu J** – Developer & UI Integration  
-- **Dr. M. Venkatesan** – Project Guide, HOD, CSE – NIT Puducherry
